@@ -16,4 +16,9 @@
 
 .link-style {
     text-decoration: none;
+    color: inherit;
+}
+
+.search-link:hover {
+    background-color: #1976d2;
 }
